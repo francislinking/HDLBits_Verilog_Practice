@@ -6,7 +6,7 @@ From 2021-01-25 to 2021-02-06
 For more details, refer to https://www.francis67.cc/archives/tag/verilog
 
 ## Stats
-![Stats] (https://github.com/francislinking/HDLBits_Verilog_Practice/blob/main/Stats%20for%20HDLBits.png)
+![Stats] (https://github.com/francislinking/HDLBits_Verilog_Practice/blob/main/src/Stats%20for%20HDLBits.png?raw=trueHDLBits_Verilog_Practice/blob/main/Stats%20for%20HDLBits.png)
 
 ## reference
 1. [Github - xiaop1/Verilog-Practice](https://github.com/xiaop1/Verilog-Practice)
