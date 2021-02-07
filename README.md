@@ -3,7 +3,7 @@
 
 From 2021-01-25 to 2021-02-06
 
-For more details, refer to https://www.francis67.cc/archives/tag/verilog
+For more details, refer to [Francis67's blog](https://www.francis67.cc/archives/tag/verilog)
 
 ## Stats
 ![Stats](https://raw.githubusercontent.com/francislinking/HDLBits_Verilog_Practice/main/imgs/Stats_for_HDLBits.png)
